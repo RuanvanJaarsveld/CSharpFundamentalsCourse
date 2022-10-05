@@ -1,0 +1,13 @@
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.exe
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.deps.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.runtimeconfig.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.runtimeconfig.dev.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.dll
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.pdb
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.AssemblyInfoInputs.cache
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.AssemblyInfo.cs
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.csproj.CoreCompileInputs.cache
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.dll
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.pdb
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 3\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 3.genruntimeconfig.cache

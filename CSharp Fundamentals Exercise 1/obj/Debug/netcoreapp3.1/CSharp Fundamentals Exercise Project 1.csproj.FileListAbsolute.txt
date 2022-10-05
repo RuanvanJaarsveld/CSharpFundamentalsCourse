@@ -1,0 +1,14 @@
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.exe
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.deps.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.runtimeconfig.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.runtimeconfig.dev.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.dll
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.pdb
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.csproj.AssemblyReference.cache
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.AssemblyInfoInputs.cache
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.AssemblyInfo.cs
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.csproj.CoreCompileInputs.cache
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.dll
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.pdb
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise Project 1\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise Project 1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.exe
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.deps.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.runtimeconfig.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.runtimeconfig.dev.json
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.dll
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.pdb
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.csproj.AssemblyReference.cache
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.AssemblyInfoInputs.cache
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.AssemblyInfo.cs
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.csproj.CoreCompileInputs.cache
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.dll
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.pdb
+D:\Other\University\C# Fundamentals Exercises\CSharp Fundamentals Exercise 5\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 5.genruntimeconfig.cache
