@@ -1,0 +1,14 @@
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.exe
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.deps.json
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.runtimeconfig.json
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.runtimeconfig.dev.json
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.dll
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\bin\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.pdb
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.csproj.AssemblyReference.cache
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.AssemblyInfoInputs.cache
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.AssemblyInfo.cs
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.dll
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.pdb
+C:\Users\Ruan\source\repos\CSharp Fundamentals Exercise 11\obj\Debug\netcoreapp3.1\CSharp Fundamentals Exercise 11.genruntimeconfig.cache
