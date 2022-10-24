@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Other\\University\\C# Fundamentals Exercises\\CSharp Fundamentals Exercise 9\\CSharp Fundamentals Exercise 9.csproj",
+      "projectUniqueName": "D:\\Other\\University\\C# Fundamentals Exercises\\CSharp Courses\\CSharp Fundamentals Exercise 9\\CSharp Fundamentals Exercise 9.csproj",
       "projectName": "CSharp Fundamentals Exercise 9",
-      "projectPath": "D:\\Other\\University\\C# Fundamentals Exercises\\CSharp Fundamentals Exercise 9\\CSharp Fundamentals Exercise 9.csproj",
+      "projectPath": "D:\\Other\\University\\C# Fundamentals Exercises\\CSharp Courses\\CSharp Fundamentals Exercise 9\\CSharp Fundamentals Exercise 9.csproj",
       "packagesPath": "C:\\Users\\Ruan\\.nuget\\packages\\",
-      "outputPath": "D:\\Other\\University\\C# Fundamentals Exercises\\CSharp Fundamentals Exercise 9\\obj\\",
+      "outputPath": "D:\\Other\\University\\C# Fundamentals Exercises\\CSharp Courses\\CSharp Fundamentals Exercise 9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
